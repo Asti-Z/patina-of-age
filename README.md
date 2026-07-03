@@ -132,7 +132,7 @@ MIT License — 自由使用、修改、分发。
 
 ## 与其他游戏的关系
 
-「包浆」是「[中年老登模拟器](https://github.com/Asti-Z/leek)」三部曲之一。另外两部：
+「包浆」是「[中年老登模拟器 · 三合一](https://github.com/Asti-Z/three-daily)」三部曲之一。另外两部：
 
 - 🥬 **[leek](https://github.com/Asti-Z/leek)** — AI 炒股模拟器（A 股，13 只股票，牛熊周期）
 - 🎣 **fishing** — AI 钓鱼模拟器（第三方作品，[tutusagi/ai-fishing-game](https://github.com/tutusagi/ai-fishing-game)）
