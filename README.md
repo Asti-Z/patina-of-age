@@ -128,7 +128,9 @@ python3 bracelet.py "new_game; rub 30; brush 10; status"
 
 ## 许可证
 
-MIT License — 自由使用、修改、分发。
+**PolyForm Noncommercial 1.0.0** — 允许非商业用途（个人学习、研究、教育、娱乐），禁止商业使用。详见 [LICENSE](LICENSE)。
+
+如需商用授权，请联系作者。
 
 ## 与其他游戏的关系
 
